@@ -1,0 +1,10 @@
+altair.csv
+deneb.csv
+elephant.csv
+locations.csv
+M52.csv
+manual.csv
+ngc6709.csv
+ngc6834.csv
+off.csv
+sun_on.csv
